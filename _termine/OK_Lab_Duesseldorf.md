@@ -1,8 +1,8 @@
 ---
 lab: OK Lab Düsseldorf
 name: Feierabend Session
-date: 2017-03-16
-time: 18:30–11:30 Uhr
+date: 2017-12-14
+time: 19:00 – 21:00 Uhr
 location: Factory Campus, Erkrather Str. 401, Düsseldorf
-link-url: https://www.meetup.com/OK-Lab-Dusseldorf/events/238268949/
+link-url: https://www.meetup.com/OK-Lab-Dusseldorf/
 ---
